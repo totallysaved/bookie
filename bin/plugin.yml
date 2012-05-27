@@ -1,0 +1,10 @@
+name: Bookie
+main: me.totallysaved.Bookie.Bookie
+version: 1.0
+description: >
+             Hello World!
+commands:
+  bet:
+    description: Make a bet
+    usage: /<command>
+    
